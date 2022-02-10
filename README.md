@@ -6,7 +6,7 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! This is my hands-on from AWS. What I did over here :point_down:
+:wave: Hi there! This is my hands-on from AWS. What I did over here :point_down:
 
 
 ##### :fire: AWS CodePipeline as a Git repository
